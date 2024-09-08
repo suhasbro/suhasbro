@@ -52,8 +52,8 @@
 - 🌱 I’m currently learning [`Python3`](https://www.liaoxuefeng.com/wiki/1016959663602400)
 - 👯 I’m looking to collaborate on Developing Hacking Software Programs
 - 💬 Ask me about Whatsapp Bots or Web Design and Development Issues
-- 📫 How to reach me: [`WhatsApp`](https://wa
-me/94774132871
+- 📫 How to reach me: [`WhatsApp`]
+- (https://wa/me/94774132871)
 -  Also visit my Bot Website [`Here`] (https://whatsapp.com/channel/0029VagKNUe96H4IdMbr9f2o)
 - ⚡ Fun fact: ...
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
