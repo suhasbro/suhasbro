@@ -1,4 +1,9 @@
-
+<body>
+  <center>
+<h1 align="center">𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮</h1>
+<br>
+<div align="center">
+  
 
 [![SUHAS-TECH](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=480&lines=Hello+Everyone%F0%9F%91%8B!;My+Name+is+Suhas+Pathsindu;I+am+a+Self+Learned+Full-Stack+Developer;I+am+from+Sri-Lanka;Nice+to+Meet+You)](https://github.com/suhasbro)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
